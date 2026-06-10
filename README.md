@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nullcoredeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="nullcoredeveloper" /> </p>
 
-- 🔭 I’m currently working on: **[v2whitelist](https://github.com/NullCoreDeveloper/v2whitelist)** and **[EchoDPI-music](https://github.com/NullCoreDeveloper/EchoDpi-Music)**
+- 🔭 I’m currently working on: **[v2whitelist](https://github.com/NullCoreDeveloper/v2whitelist)**
 
 - 🌱 I’m currently learning: **Network Protocols, System Architecture, Reverse Engineering, Cybersecurity.**
 
