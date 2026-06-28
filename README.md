@@ -9,6 +9,8 @@
 
 - 💬 Ask me about: **DPI bypass, networking, system automation.**
 
+- [![Telegram channel](https://img.shields.io/badge/Telegram-Join-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NullCoreDeveloper)
+
 <br>
 
 
